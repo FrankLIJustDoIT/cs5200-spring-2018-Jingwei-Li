@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Feb 24 01:21:17 EST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0161-c679-0e53-00000748c860 
+on database directory memory:/Users/frankli/SpringBootWorkspace/cs5200-spring2018-jingwei-ding-siyu/testdb with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
+Loaded from file:/Users/frankli/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/Users/frankli/SpringBootWorkspace/cs5200-spring2018-jingwei-ding-siyu
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
